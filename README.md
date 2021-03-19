@@ -325,7 +325,7 @@ open data packages.
 
 
 # Resources I used:
- *  Jan, Jon and Alessio!
+ *  Jan, Jon and Antonio!
  *  Slides from Strive School.
  *  Feedback from my classmates.
  *  Google.
